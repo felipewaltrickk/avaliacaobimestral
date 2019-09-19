@@ -1,0 +1,66 @@
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.deps.json
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.json
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.dev.json
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.csprojAssemblyReference.cache
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.csproj.CoreCompileInputs.cache
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfoInputs.cache
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfo.cs
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\source\repos\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.deps.json
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.json
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.dev.json
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\bin\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfo.cs
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\User\Desktop\trabalhoPC1\trabprog1\obj\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.deps.json
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.json
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.dev.json
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csprojAssemblyReference.cache
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfoInputs.cache
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfo.cs
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\Desktop\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.deps.json
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.json
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.dev.json
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csprojAssemblyReference.cache
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfoInputs.cache
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfo.cs
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\Desktop\repos\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.pdb
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.deps.json
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.json
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.dev.json
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.dll
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.pdb
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csprojAssemblyReference.cache
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csproj.CoreCompileInputs.cache
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfoInputs.cache
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfo.cs
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.dll
+D:\Felipe\Estudos\UniBrasil\Trabalhos\Programação de Computadores\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.deps.json
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.json
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.runtimeconfig.dev.json
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\bin\Debug\netcoreapp2.1\trabprog1.pdb
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csprojAssemblyReference.cache
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfoInputs.cache
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.AssemblyInfo.cs
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.dll
+C:\Users\felipe\Desktop\Material de Apoio\trabalhobimestral(felipe)\obj\Debug\netcoreapp2.1\trabprog1.pdb
